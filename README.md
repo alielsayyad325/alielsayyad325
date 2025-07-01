@@ -6,7 +6,7 @@ In my free time, I enjoy working on coding projects, exploring AI/ML use cases, 
 
 I'm currently seeking opportunities for internships, research, and exciting collaborations!
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alielsayyad325@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-elsayyad-423bba276/)
 
 ---
